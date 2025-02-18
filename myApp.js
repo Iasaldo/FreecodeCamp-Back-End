@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3000;
 
 
 app.listen(PORT, function() {
-  console.log("Hello world");
+  console.log("Hello World");
 });
 
 
